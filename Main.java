@@ -8,7 +8,7 @@ public class Main {
 
 
     public  static  String Name="User";
-    // name of pizza
+    // name of pizzaaaaaaaaa
    public static String[] nameOfPizza={
             "KFC CHICKEN PIZZA",
             "SUPER SUPREME    ",
